@@ -10,7 +10,7 @@ To write a python program to find the inverse of a matrix
 ### Step 3: Using np.linalg.inv(),we can find the inverse of a matrix
 ### Step 4: End the program
 ## Program:
-
+```
 #Program to find the inverse of a matrix.
 #Developed by:kavinesh k
 #RegisterNumber:26019140
@@ -20,6 +20,7 @@ import numpy as np
 A=np.array([[6,2,3],[3,1,1],[10,3,4]])
 r=np.linalg.inv(A)
 print(r)
+```
 ### program:
 <img width="1369" height="572" alt="Screenshot 2026-11-22 194943" src="https://github.com/user-attachments/assets/906a1843-3ad9-4cb4-a4d6-11a2a13aa92a" />
 
